@@ -158,7 +158,7 @@
 
                 class="text-[#fe4135] hover:text-white transition-colors duration-200">
                 Tekfolio
-              </href>
+              </a>
             </div>
           </div>
         </div>
