@@ -154,10 +154,11 @@
             </button>
             <div class="text-gray-400 text-sm">
               Design & Development by
-              <NuxtLink to="https://tekfol.io" target="_blank"
+             <a href="https://tekfolio.ng" target="_blank" rel="noopener noreferrer"
+
                 class="text-[#fe4135] hover:text-white transition-colors duration-200">
                 Tekfolio
-              </NuxtLink>
+              </href>
             </div>
           </div>
         </div>
